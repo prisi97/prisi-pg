@@ -1,0 +1,35 @@
+* {
+  margin: 0%;
+  background-color: #523f31;
+}
+
+h1 {
+  font-family: "Ephesis", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  font-size: 50px;
+  color: #e2b8ad;
+  letter-spacing: 10px;
+}
+h2 {
+  font-family: "Delius Swash Caps", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: #e2b8ad;
+  text-align: center;
+}
+.prod {
+  background-color: #796254;
+  display: grid;
+  grid-template-columns: 15% 15% 15% 15% 15% 15%;
+  grid-template-rows: 400px 200px;
+  gap: 30px;
+}
+
+.im1 {
+  margin: 9%;
+}
+button {
+  color: #e2b8ad;
+}
